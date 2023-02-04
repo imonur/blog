@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Arduino ile DHT11 Kullanımı"
 date:   2016-06-04 13:50:39
 categories: coding
 ---
