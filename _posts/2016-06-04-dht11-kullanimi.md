@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Arduino ile DHT11 Kullanımı
-date:   2023-02-01 13:50:39
+title:  "Welcome to Jekyll!"
+date:   2016-06-04 13:50:39
 categories: coding
 ---
 
