@@ -1,0 +1,28 @@
+title: Onur KIZILARSLAN
+description: My Personal Blog
+author: Onur KIZILARSLAN
+logo: /blog/static/img/avatar.jpg
+github: https://imonur.github.io/
+about: Senior Engineer
+
+baseurl: "https://imonur.github.io/blog"
+url: "https://imonur.github.io/blog"
+
+allowsearch: true
+
+disqus_shortname: aboutashu
+google_analytics: UA-72862926-1
+
+share:
+  twitter_username: \#
+  fb_appid: 000000000000
+
+
+enableTags: true
+tagarray: []
+
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems: [jekyll-paginate, jekyll-gist]

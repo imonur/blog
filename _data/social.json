@@ -1,0 +1,23 @@
+[
+  {
+    "icon": "fa-shopping-cart",
+    "link": "https://www.stemkits.net/"
+  }, 
+  {
+    "icon": "fa-brands fa-instagram",
+    "link": "https://www.instagram.com/stem.kits/"
+  },
+  {
+    "icon": "fa-linkedin",
+    "link": ""
+  },
+  {
+    "icon": "fa-stack-exchange",
+    "link": ""
+  },
+  {
+    "icon": "fa-envelope",
+    "link": "mailto:info@facadium.com.tr"
+  }
+]
+
