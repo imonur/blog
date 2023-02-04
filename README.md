@@ -1,5 +1,3 @@
-## Blog Sayfam
-
 Merhabalar ben Onur KIZILARSLAN. 2000 yılında başlayan üniversite ve çalışma hayatına halen daha son hızla devam etmektyim. 2014 yılında kurmuş olduğum [Facadium Mühendislik](http://facadium.com.tr/) firmasında ar-ge hizmetleri, ürün geliştirme, eğitim ve danışmanlık süreçlerine dahil olmaktayım. 
 
 Hakkımda daha detaylı bilgiye özgeçmiş sayfasından ulaşabilirsiniz.
