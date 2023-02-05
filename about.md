@@ -1,5 +1,9 @@
 ---
 layout: default
+title: Blogg
+---
+---
+layout: default
 title: Blog
 ---
 <div class="well">
