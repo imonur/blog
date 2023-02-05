@@ -1,7 +1,6 @@
 ---
-layout: page
-title: Hakkımda
-permalink: /about/
+layout: default
+title: Blog
 ---
 
 Merhabalar,
