@@ -5,9 +5,9 @@
     "icon": "fa-comments"
   },
   {
-    "text": "Anasayfa",
+    "text": "Hakkımda",
     "url": "/about",
-    "icon": "fa-home",
+    "icon": "fa-id-card-o",
     "layout": "post"
   },
   {
