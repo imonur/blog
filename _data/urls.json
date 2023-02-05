@@ -1,14 +1,14 @@
 [
   {
+    "text": "Blog",
+    "url": "/",
+    "icon": "fa-comments"
+  },
+  {
     "text": "Anasayfa",
     "url": "/about",
     "icon": "fa-home",
     "layout": "post"
-  },
-  {
-    "text": "Blog",
-    "url": "/",
-    "icon": "fa-comments"
   },
   {
     "text": "Projeler",
