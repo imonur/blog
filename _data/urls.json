@@ -1,13 +1,13 @@
 [
   {
     "text": "Anasayfa",
-    "url": "/",
+    "url": "/about",
     "icon": "fa-home",
     "layout": "post"
   },
   {
     "text": "Hakkımda",
-    "url": "/about",
+    "url": "/",
     "icon": "fa-comments"
   },
   {
