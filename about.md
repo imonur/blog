@@ -1,10 +1,6 @@
 ---
 layout: default
-title: Blogg
----
----
-layout: default
-title: Blog
+title: Blog222
 ---
 <div class="well">
     <div class="list-group">
