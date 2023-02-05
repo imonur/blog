@@ -1,62 +1,27 @@
 ---
-layout: default
-title: Blog222
+layout: page
+title: Hakkımda
+permalink: /about
 ---
-<div class="well">
-    <div class="list-group">
-      {% for post in paginator.posts %}
-      <div class="list-group-item">
-        <div class="row-action-primary">
-          <i class="fa fa-sticky-note"></i>
-        </div>
-        <div class="row-content">
-          <div class="least-content">{{ post.date | date_to_string }}</div>
-          <h4 class="list-group-item-heading"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
 
-          <p class="list-group-item-text">{{ post.content | strip_html | truncatewords: 20 }}</p>
-        </div>
-      </div>
-      <div class="list-group-separator"></div>
-      {% endfor %}
-    </div>
-   
+Merhabalar,
+ 
+Ben Onur KIZILARSLAN. 2000 yılında başlayan üniversite ve çalışma hayatına halen devam etmektyim. 2014 yılında kurmuş olduğum [Facadium Mühendislik](http://facadium.com.tr/) firmasında ar-ge hizmetleri, ürün geliştirme, eğitim ve danışmanlık süreçlerine dahil olmaktayım. Hakkımda daha detaylı bilgiye sol tarafta bulunan özgeçmiş sayfasından ulaşabilirsiniz.
 
-    <!-- Pagination links -->
-    {% if paginator.total_pages > 1 %}
-    <ul class="pager">
-      {% if paginator.previous_page %}
-        <li class="previous">
-          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
-        </li>
-      {% else %}
-        <li class="previous disabled"><span aria-hidden="true">&laquo;</span></li>
-      {% endif %}
+Geliştirmiş olduğum (gizlilik sözleşmesi olmayan) projelerin bir kısmını bu sayfada paylaşacağım. Projelerde adı geçen ürünleri yine firmamıza bağlı olan ve sol bölümde bulunan [STEM Kits](https://www.stemkits.net/) Mağazamızdan temin edebilirsiniz. 
 
-      <li><a href="/">First</a></li>
+Görüş ve önerileriniz için bana mail adresimizden ulaşabilirsiniz. 
 
-      {% for page in (1..paginator.total_pages) %}
-        {% if page == paginator.page %}
-          <li class="active">
-             <a>{{ page }}<span class="sr-only">(current)</span></a>
-          </li>
-        {% elsif page == 1 %}
-          <li><a href="/">{{ page }}</a></li>
-        {% else %}
-          <li>
-            <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
-          </li>
-        {% endif %}
-      {% endfor %}
+Saygılarımla
 
-      <li><a href="/page{{ paginator.total_pages }}/">Last</a></li>
+---------------------------------------------------------------------------
 
-      {% if paginator.next_page %}
-        <li class="next">
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
-        </li>
-      {% else %}
-        <li class="next disabled"><span>&raquo;</span></li>
-      {% endif %}
-    </ul>
-    {% endif %}
-</div><!-- end #home -->
+Hello,
+ 
+My name is Onur KIZILARSLAN. I am still continuing my university and working life, which started in 2000. I founded the Facadium Engineering company that I founded in 2014. Since 2014, I have been providing R&D services, product development, training and consultancy services. You can find more detailed information about me on the resume page on the left.
+
+I will share some of the projects I have developed (without a confidentiality agreement) on this page. The products mentioned in the projects are STEM Kits, which are also affiliated with our company and located on the left. You can get it from our store. You can reach me at our e-mail address for your opinions and suggestions.
+ 
+Kind Regards
+
+---------------------------------------------------------------------------
