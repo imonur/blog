@@ -5,13 +5,13 @@ title: Blog
 
 Merhabalar,
  
-Ben Onur KIZILARSLAN. 2000 yılında başlayan üniversite ve çalışma hayatına halen devam etmektyim. 2014 yılında kurmuş olduğum [Facadium Mühendislik](http://facadium.com.tr/) firmasında ar-ge hizmetleri, ürün geliştirme, eğitim ve danışmanlık süreçlerine dahil olmaktayım. Hakkımda daha detaylı bilgiye sol tarafta bulunan özgeçmiş sayfasından ulaşabilirsiniz.
+<br>Ben Onur KIZILARSLAN. 2000 yılında başlayan üniversite ve çalışma hayatına halen devam etmektyim. 2014 yılında kurmuş olduğum [Facadium Mühendislik](http://facadium.com.tr/) firmasında ar-ge hizmetleri, ürün geliştirme, eğitim ve danışmanlık süreçlerine dahil olmaktayım. Hakkımda daha detaylı bilgiye sol tarafta bulunan özgeçmiş sayfasından ulaşabilirsiniz.</br>
 
-Geliştirmiş olduğum (gizlilik sözleşmesi olmayan) projelerin bir kısmını bu sayfada paylaşacağım. Projelerde adı geçen ürünleri yine firmamıza bağlı olan ve sol bölümde bulunan [STEM Kits](https://www.stemkits.net/) Mağazamızdan temin edebilirsiniz. 
+<br>Geliştirmiş olduğum (gizlilik sözleşmesi olmayan) projelerin bir kısmını bu sayfada paylaşacağım. Projelerde adı geçen ürünleri yine firmamıza bağlı olan ve sol bölümde bulunan [STEM Kits](https://www.stemkits.net/) Mağazamızdan temin edebilirsiniz. </br>
 
-Görüş ve önerileriniz için bana mail adresimizden ulaşabilirsiniz. 
+<br>Görüş ve önerileriniz için bana mail adresimizden ulaşabilirsiniz. </br>
 
-Saygılarımla
+<br>Saygılarımla</br>
 
 ---------------------------------------------------------------------------
 
