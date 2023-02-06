@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Arduino ile DHT11 Kullanımı"
+date:   2023-02-02 13:50:39
+categories: coding
+---
+
 # Arduino Klon (Clone) Sürücü Tanıma Sorunu- CH340
 
 Arduino Uno Clone, Arduino Uno R3 Original ile aynı sürücü çipini kullanmaz. Birçok kullanıcı almış olduğu Arduino kartlarını bilgisayarda tanıtmakta zorlanır. Bu sorunu ortadan kaldırmanın yolu ise bilgisayarınıza bu sürücünün yüklenmesidir. Aşağıda bilgisayarınıza kurmanız gereken sürücüleri paylaşıyoruz. Ancak en sağlıklı olanı satın aldığınız firma ile iletişime geçmeniz.
