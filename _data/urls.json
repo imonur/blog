@@ -1,14 +1,14 @@
 [
   {
-    "text": "Anasayfa",
+    "text": "Blog",
     "url": "/",
-    "icon": "fa-home",
-    "layout": "post"
+    "icon": "fa-comments"
   },
   {
     "text": "Hakkımda",
-    "url": "/about/",
-    "icon": "fa-comments"
+    "url": "/about",
+    "icon": "fa-info",
+    "layout": "post"
   },
   {
     "text": "Projeler",
