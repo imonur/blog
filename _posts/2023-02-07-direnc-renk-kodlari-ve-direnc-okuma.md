@@ -5,6 +5,6 @@ date:   2023-02-02 13:50:39
 categories: coding
 ---
 ---
-# Arduino ile DHT11 Kullanımı
+# Direnç Renk Kodları ve Direnç Okuma
 ---
-Bu yazı, size **DHT11**'i Arduino ile nasıl kullanacağınızı gösterecek.
+Bu yazı, size **Direnç Renk Kodları ve Direnç Okumayı** gösterecek.
