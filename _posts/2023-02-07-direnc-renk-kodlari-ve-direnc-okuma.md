@@ -21,7 +21,7 @@ Kırmızının sayı değeri 2, çarpan değeri 102 yani 100, tolerans değeri %
 
 Direnç değerleri renklerle belirlenirken 3, 4, 5 veya 6 renk kullanılabilir.
 
-**### 4 Renkli Dirençler:**
+### **4 Renkli Dirençler:**
 
 Direnç üzerinde 4 renk bandı kullanılarak değeri ifade edilir.
 
