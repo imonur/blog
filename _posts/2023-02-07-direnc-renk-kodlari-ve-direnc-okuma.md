@@ -25,11 +25,11 @@ Direnç değerleri renklerle belirlenirken 3, 4, 5 veya 6 renk kullanılabilir.
 
 Direnç üzerinde 4 renk bandı kullanılarak değeri ifade edilir.
 
-![Direnc_Okuma_3](https://www.stemkits.net/files/cap/images/direnc.png)
+![Direnc_Okuma_3](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc.png)
 
 4 renkli kodlamada 1. ve 2. renk sayı, 3. renk çarpan, 4. renk toleranstır.
 
-![Direnc_Okuma_3](https://www.stemkits.net/files/cap/images/direnc2.png)
+![Direnc_Okuma_3](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc2.png)
 
 İlk iki sayı yan yana yazılır, çarpanla çarpılır. Bu bize Ohm olarak direnç değerini verir. Bir başka ifade ile 1. ve 2. renklerin sayı değeri yan yana yazılıp, çıkan değer, 3. rengin çarpan değeri ile çarpılır. Çarpım sonucu çıkacak değer direncin ohm olarak değeridir. 4. renk ise tolerans değeridir.
 
@@ -52,17 +52,17 @@ Tolerans direnç değerindeki üretimden kaynaklanan hata payı demektir. Direnc
 
 ### 4 Renkli Direnç Okuma Örnekleri:
 
-![Direnc_Okuma_4](https://www.stemkits.net/files/cap/images/direnc3.png)
+![Direnc_Okuma_4](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc3.png)
 
 Kahverengi (1) – Siyah (0)- Siyah (100=1)- Altın (%5) 10 Ohm %5 3. renk çarpan olduğu için, 3. renk olan siyahın çarpan değerini yazdık.
 
-![Direnc_Okuma_4](https://www.stemkits.net/files/cap/images/direnc4.png)
+![Direnc_Okuma_4](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc4.png)
 
-![Direnc_Okuma_5](https://www.stemkits.net/files/cap/images/direnc5.png)
+![Direnc_Okuma_5](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc5.png)
 
 Kırmızı(2) –Mor(7) –Kahverengi(101=10 çünkü 3. renk çarpan) –Altın(tolerans %5) 27×10= 270 Ohm, Toleransı %5
 
-![Direnc_Okuma_6](https://www.stemkits.net/files/cap/images/direnc6.png)
+![Direnc_Okuma_6](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc6.png)
 
 Not: Dirençte tolerans rengi yoksa ve 3 renkliyse, 4 renkli direnç gibi okunur. Tolerans rengi olmadığından toleransı %20 kabul edilir.
 
@@ -71,11 +71,11 @@ Not: Dirençte tolerans rengi yoksa ve 3 renkliyse, 4 renkli direnç gibi okunur
 5 Renkli Dirençlerde, 4 renkliden farklı olarak 3 tane sayı vardır.
 
 
-![Direnc_Okuma_7](https://www.stemkits.net/files/cap/images/direnc7.png)
+![Direnc_Okuma_7](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc7.png)
 
-![Direnc_Okuma_8](https://www.stemkits.net/files/cap/images/direnc8.png)
+![Direnc_Okuma_8](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc8.png)
 
-![Direnc_Okuma_9](https://www.stemkits.net/files/cap/images/direnc9.png)
+![Direnc_Okuma_9](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc9.png)
 
 ### 6 Renkli Dirençler:
 
@@ -85,7 +85,7 @@ Not: Dirençte tolerans rengi yoksa ve 3 renkliyse, 4 renkli direnç gibi okunur
 
 Bu katsayı direncin değerinin sıcaklıkla ne kadar değiştiğini belirtir. Birimi PPM/oC dir. Yani oC (santigrat derecede) milyon başına değişim demektir (PPM=part per million) 1Mohm bir direncin sıcaklık katsayısı 400PPM/ oC ise bunun anlamı şudur 1 oC sıcaklık artışı direncin değerini 400 Ohm değiştirebilir. Azaltabilir veya artırabilir. Sıcaklıkla dirençin değişimini şu şekilde hesaplayabiliriz:
 
-![Direnc_Okuma_10](https://www.stemkits.net/files/cap/images/direnc10.png)
+![Direnc_Okuma_10](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc10.png)
 
 ΔR : Dirençteki değişim miktarı (ohm)
 
@@ -101,16 +101,16 @@ T :Son sıcaklık (oC)
 
 Örnek: Sıcaklık katsayısı 150 PPM/ oC olan 1Kohm luk bir direncin ortam sıcaklığı 25 oC den 30 oC ‘ye çıkarsa direnç değeri ne kadar değişir.
 
-![Direnc_Okuma_11](https://www.stemkits.net/files/cap/images/direnc11.png)
+![Direnc_Okuma_11](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc11.png)
 
 Örnek: TCR değeri 200 PPM/ oC olan 10 Kohm bir direncin 15oC sıcaklık artışında değeri ne olur?
 
-![Direnc_Okuma_12](https://www.stemkits.net/files/cap/images/direnc12.png)
+![Direnc_Okuma_12](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc12.png)
 
 Sıcaklık arttığından direnç 30 Ohm azalacaktır.
 
-![Direnc_Okuma_13](https://www.stemkits.net/files/cap/images/direnc13.png)
+![Direnc_Okuma_13](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc13.png)
 
 Sarı-Kahverengi-Kırmızı-Turuncu-Kahverengi-Mor 412×1000=412Kohm %1, 5ppm
 
-![Direnc_Okuma_14](https://www.stemkits.net/files/cap/images/direnc14.png)
+![Direnc_Okuma_14](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc14.png)
