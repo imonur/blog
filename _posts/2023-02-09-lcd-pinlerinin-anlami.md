@@ -21,7 +21,7 @@ Bu yazı, size **LCD Pinlerinin Anlamını** gösterecektir.
 |     4    | RS(Register Select) | LCD ekranın ne yapacağını, register da bir değer olup olmadığını kontrol eder.                           |
 |     5    | R/W(Read/Write)     | Pinlerin modlarını okuma veya yazma olarak değiştirmek için kullanılır                                   |
 |     6    | E (Enable)          | Pinleri okuma modunda aktif hale getirir                                                                 |
-|  7 - 14  | D0 – D7             | Bit bit aldığı değerleri okur. Buradan ekrana yazdırılacak yazılar bit bit gönderilir. LCD de okur       |
-|  15 - 16 | Cathode - Anode     | Sonda bulunan bu iki girişe + ve – olmak üzere voltaj uygulanır. Bu sayede LCD'nin arka plan ışığı yanar |
+|  7 - 14  | D0 – D7             | Bit olarak aldığı değerleri okur. Buradan ekrana yazdırılacak yazılar bit olarak  gönderilir.      |
+|  15 - 16 | Cathode - Anode     | Sonda bulunan bu iki girişe + ve – olmak üzere voltaj uygulanır. Bu sayede LCD'nin arka plan ışığı yanar veya söner. |
 
 ---
