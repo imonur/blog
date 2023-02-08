@@ -22,6 +22,6 @@ Bu yazı, size **LCD Pinlerinin Anlamını** gösterecektir.
 |     5    | R/W(Read/Write)     | Pinlerin modlarını okuma veya yazma olarak değiştirmek için kullanılır                                   |
 |     6    | E (Enable)          | Pinleri okuma modunda aktif hale getirir                                                                 |
 |  7 - 14  | D0 – D7             | Bit olarak aldığı değerleri okur. Buradan ekrana yazdırılacak yazılar bit olarak  gönderilir.      |
-|  15 - 16 | Cathode - Anode     | Sonda bulunan bu iki girişe + ve – olmak üzere voltaj uygulanır. Bu sayede LCD'nin arka plan ışığı yanar veya söner. |
+|  15 - 16  | Cathode - Anode     | Sonda bulunan bu iki girişe + ve – olmak üzere voltaj uygulanır. Bu sayede LCD'nin arka plan ışığı yanar veya söner. |
 
 ---
