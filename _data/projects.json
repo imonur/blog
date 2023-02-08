@@ -6,11 +6,4 @@
 		"date": "Jan 2014",
 		"tags": ["Arduino","DHT11"]
 	},
-	{
-		"name": "Direnç Renk Kodları ve Direnç Okuma",
-		"image": "blog/static/projects/direnc_okuma.png",
-		"url": "https://imonur.github.io/blog/coding/2023/02/02/direnc-renk-kodlari-ve-direnc-okuma.html",
-		"date": "Jan 2014",
-		"tags": ["Arduino","Direnç"]
-	},
 ]
