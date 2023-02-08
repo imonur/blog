@@ -13,7 +13,7 @@ Her rengin bir sayı değeri, bir çarpan değeri ve bazı renklerin tolerans de
      
 ---
 
-![Direnc_Okuma](https://github.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc_okuma.png)
+![Direnc_Okuma](https://raw.githubusercontent.com/imonur/blog/main/projects/images/direnc_okuma/direnc_okuma.png)
 
 Kırmızının sayı değeri 2, çarpan değeri 102 yani 100, tolerans değeri %2 dir. Sayı değerini bilmek çarpan değerini de bilmek demektir. Çünkü çarpan değeri 10sayı değeri dir. Sayı değeri 2 ise çarpan 102=100 dür, 5 ise çarpan 105=100.000 dir. Renklerin sayı değerlerini kolayca akılda tutmak için “Sokakta Sayamam Gibi” ifadesi ezberlenebilir.
 
