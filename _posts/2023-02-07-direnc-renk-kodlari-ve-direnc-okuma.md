@@ -25,11 +25,11 @@ Direnç değerleri renklerle belirlenirken 3, 4, 5 veya 6 renk kullanılabilir.
 
 Direnç üzerinde 4 renk bandı kullanılarak değeri ifade edilir.
 
-![Direnc_Okuma_3](https://raw.githubusercontent.com/blog/blob/main/projects/images/direnc_okuma/direnc.png)
+![Direnc_Okuma_3](https://raw.githubusercontent.com/imonur/blog/main/projects/images/direnc_okuma/direnc.png)
 
 4 renkli kodlamada 1. ve 2. renk sayı, 3. renk çarpan, 4. renk toleranstır.
 
-![Direnc_Okuma_3](https://raw.githubusercontent.com/blog/blob/main/projects/images/direnc_okuma/direnc2.png)
+![Direnc_Okuma_3](https://raw.githubusercontent.com/imonur/blog/blob/main/projects/images/direnc_okuma/direnc2.png)
 
 İlk iki sayı yan yana yazılır, çarpanla çarpılır. Bu bize Ohm olarak direnç değerini verir. Bir başka ifade ile 1. ve 2. renklerin sayı değeri yan yana yazılıp, çıkan değer, 3. rengin çarpan değeri ile çarpılır. Çarpım sonucu çıkacak değer direncin ohm olarak değeridir. 4. renk ise tolerans değeridir.
 
