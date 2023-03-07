@@ -5,6 +5,13 @@ date:   2023-03-07 13:50:39
 categories: numpy
 ---
 
+---
+# Numpy Paketi
+---
+Bu yazı, size **Numpy Paketleri** hakkında bilgi verecektir.
+
+---
+
 NumPy, Python'da bilimsel hesaplama yapmak için kullanılan bir kütüphanedir. NumPy, matris ve dizi işlemleri için optimize edilmiş birçok fonksiyona sahiptir. Bu fonksiyonlar sayesinde, bilimsel hesaplama ve veri analizi uygulamaları için çok verimli bir şekilde çalışabilirsiniz.
 
 NumPy, ayrıca çok boyutlu diziler için temel veri yapısı olarak da kullanılır. Bu nedenle, NumPy, veri analizi, imge işleme, sayısal hesaplama, makine öğrenmesi ve daha birçok alanda kullanılır.
