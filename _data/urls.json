@@ -10,6 +10,12 @@
     "icon": "fa-info",
     "layout": "post"
   },
+    {
+    "text": "Kategoriler",
+    "url": "https://imonur.github.io/blog/category/numpy",
+    "icon": "fa-feed",
+    "target": "_blank"
+  }
   {
     "text": "Projeler",
     "url": "/projects",
