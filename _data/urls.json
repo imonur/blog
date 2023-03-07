@@ -1,14 +1,14 @@
 [
-  {
-    "text": "Blog",
-    "url": "/",
-    "icon": "fa-comments"
-  },
-  {
+    {
     "text": "Hakkımda",
     "url": "/about",
     "icon": "fa-info",
     "layout": "post"
+  },
+  {
+    "text": "Blog",
+    "url": "/",
+    "icon": "fa-comments"
   },
     {
     "text": "Kategoriler",
