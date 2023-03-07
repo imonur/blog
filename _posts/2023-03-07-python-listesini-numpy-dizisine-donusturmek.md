@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Numpy Nedir?"
+title:  "Python Listesini Numpy Dizisine Dönüştürmek"
 date:   2023-03-07 13:50:39
 categories: numpy
 ---
