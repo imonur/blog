@@ -31,10 +31,13 @@ Sonuç olarak, NumPy, Python programlama dilinde bilimsel hesaplama yapmak için
 
 Python normal liste veri yapıları ile matematik işlemi yapamamaktadır. Örneğin şöyle bir işlem yapmış olsak alacağımzı hata şu olacaktır:
 
+```sh
 vize = [10, 20, 30, 40]
 final = [2, 60, 32, 50]
 (vize+final)/2
+```
 
+```sh
 ---------------------------------------------------------------------------
 TypeError                                 Traceback (most recent call last)
 ~\AppData\Local\Temp\ipykernel_23012\1856997934.py in <module>
@@ -43,3 +46,5 @@ TypeError                                 Traceback (most recent call last)
 ----> 3 (vize+final)/2
 
 TypeError: unsupported operand type(s) for /: 'list' and 'int'
+
+```
