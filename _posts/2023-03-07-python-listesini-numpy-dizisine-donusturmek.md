@@ -8,8 +8,8 @@ categories: numpy
 ---
 # Numpy Dizisine Dönüştürmek
 ---
+---
 Bir Python listesini **.array()** metodunu kullanarak nasıl Numpy dizisine dönüştürebiliriz?
-
 ---
 
 Bir Python listesini NumPy dizisine dönüştürmek için, öncelikle NumPy kütüphanesini yüklemeniz gerekiyor. Ardından, NumPy'nin array() yöntemini kullanarak listeyi NumPy dizisine dönüştürebilirsiniz. Aşağıdaki örnek kod parçası, bu işlemi nasıl gerçekleştireceğinizi gösterir:
