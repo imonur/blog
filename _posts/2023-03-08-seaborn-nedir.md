@@ -51,7 +51,6 @@ Seaborn kütüphanesi, birçok görselleştirme işlevi sağlar. Seaborn ile bas
 7.  FacetGrid'ler
 
 ```s
-
 import seaborn as sns
 import matplotlib.pyplot as plt
 
@@ -79,6 +78,4 @@ sns.set_style("darkgrid")
 
 # Veri seti yükleme
 tips = sns.load_dataset("tips")
-
-
 ```
