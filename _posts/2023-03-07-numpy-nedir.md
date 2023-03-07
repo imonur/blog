@@ -48,3 +48,21 @@ TypeError                                 Traceback (most recent call last)
 TypeError: unsupported operand type(s) for /: 'list' and 'int'
 
 ```
+
+Ancak yukarıda yapılan projeyi **Numpy Paketi** ile yapmak istersek o zaman böyle bir hata almayız.
+
+```sh
+import numpy as np
+vize = [10, 20, 30, 40]
+final = [2, 60, 32, 50]
+
+vize_np = np.array(vize)
+final_np = np.array(final)
+
+ortalama = (vize_np + final_np)/2
+print(ortalama)
+```
+
+```sh
+[ 6. 40. 31. 45.]
+```
