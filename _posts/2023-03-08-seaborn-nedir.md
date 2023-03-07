@@ -80,5 +80,5 @@ sns.set_style("darkgrid")
 # Veri seti yükleme
 tips = sns.load_dataset("tips")
 
-# Kutu grafiği ç
+
 ```
