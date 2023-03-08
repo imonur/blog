@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Numpy Nedir?"
+title:  "Pandas ile Veri Okuma"
 date:   2023-03-07 13:50:39
 categories: pandas
 ---
 
 ---
-# Numpy Paketi
+# Pandas ile Veri Okuma
 ---
-Bu yazı, size **Numpy Paketleri** hakkında bilgi verecektir.
+Bu yazı, size **Pandas ile Veri Okuma** hakkında bilgi verecektir.
 
 ---
 
