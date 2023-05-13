@@ -12,8 +12,8 @@ Bu yazıda, **Python'da 10 Ödev Sorusu ve Cevaplarını** bulacaksınız.
 
 ---
 
-Ödev 1: Python'da değişkenlerin kullanımını açıklayan bir program yazın. Kullanıcıdan iki sayı girmesini isteyin ve bu sayıları toplayarak sonucu ekrana yazdırın.
-Çözüm:
+**Ödev 1:** Python'da değişkenlerin kullanımını açıklayan bir program yazın. Kullanıcıdan iki sayı girmesini isteyin ve bu sayıları toplayarak sonucu ekrana yazdırın.
+**Çözüm:**
 
 ```s
 
@@ -36,8 +36,8 @@ Son olarak, print() fonksiyonunu kullanarak "Toplama işleminin sonucu:" ifadesi
 
 Bu programı çalıştırarak kullanıcıdan alınan sayıların toplamını görebilirsiniz.
 
-Ödev 2:  Python'da matematiksel operatörleri kullanarak iki sayı üzerinde farklı işlemler gerçekleştiren bir program yazın. Programın çıktısı olarak bu işlemlerin sonuçlarını ekrana yazdırın.
-Çözüm:
+**Ödev 2:**  Python'da matematiksel operatörleri kullanarak iki sayı üzerinde farklı işlemler gerçekleştiren bir program yazın. Programın çıktısı olarak bu işlemlerin sonuçlarını ekrana yazdırın.
+**Çözüm:**
 
 ```s
 
@@ -86,9 +86,9 @@ Son olarak, her işlemin sonucunu ekrana yazdırıyoruz. print() fonksiyonunu ku
 
 Bu programı çalıştırarak, iki sayı üzerinde yapılan farklı matematiksel işlemlerin sonuçlarını görebilirsiniz.
 
-Ödev 3:  Python'da veri tipleri arasında dönüşümleri gösteren bir program yazın. Kullanıcıdan bir tam sayı, bir ondalık sayı ve bir metin girmesini isteyin. Bu değerleri farklı veri tiplerine dönüştürerek ekrana yazdırın.
+**Ödev 3:**  Python'da veri tipleri arasında dönüşümleri gösteren bir program yazın. Kullanıcıdan bir tam sayı, bir ondalık sayı ve bir metin girmesini isteyin. Bu değerleri farklı veri tiplerine dönüştürerek ekrana yazdırın.
 
-Çözüm:
+**Çözüm:**
 
 
 ```s
@@ -124,9 +124,9 @@ Son olarak, print() fonksiyonunu kullanarak dönüşümleri ekrana yazdırıyoru
 
 Bu programı çalıştırarak, kullanıcının girdiği değerlerin farklı veri tiplerine nasıl dönüştürüldüğünü görebilirsiniz.
 
-Ödev 4: Python'da sözlüklerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir ülke adı ve başkentini alacak ve bu bilgileri bir sözlükte saklayacak. Daha sonra kullanıcıya bir ülke adı girdiğinde, program bu ülkenin başkentini ekrana yazdıracak.
+**Ödev 4:** Python'da sözlüklerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir ülke adı ve başkentini alacak ve bu bilgileri bir sözlükte saklayacak. Daha sonra kullanıcıya bir ülke adı girdiğinde, program bu ülkenin başkentini ekrana yazdıracak.
 
-Çözüm :
+**Çözüm :**
 
 
 ```s
@@ -165,9 +165,9 @@ Son olarak, kullanıcıdan bir ülke adı girmesini isteyen bir başka döngü o
 Bu programı çalıştırarak, kullanıcının girdiği ülke adına karşılık gelen başkenti sözlük üzerinden alabilirsiniz.
 
 
-Ödev 5: Python'da listelerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir liste elemanı girmesini isteyecek ve bu elemanları bir listeye ekleyecektir. Daha sonra listenin tamamını ekrana yazdıracak ve listenin uzunluğunu hesaplayacaktır.
+**Ödev 5:** Python'da listelerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir liste elemanı girmesini isteyecek ve bu elemanları bir listeye ekleyecektir. Daha sonra listenin tamamını ekrana yazdıracak ve listenin uzunluğunu hesaplayacaktır.
 
-Çözüm:
+**Çözüm:**
 
 ```s
 
@@ -199,9 +199,9 @@ Son olarak, print() fonksiyonunu kullanarak listenin tamamını ekrana yazdırı
 Bu programı çalıştırarak, kullanıcının girdiği liste elemanlarını ve listenin uzunluğunu görebilirsiniz.
 
 
-Ödev 6: Python'da demetlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir demet elemanı girmesini isteyecek ve bu elemanları bir demete ekleyecektir. Daha sonra demetin tamamını ekrana yazdıracak ve demetteki bir elemanın kaç kez geçtiğini hesaplayacaktır.
+**Ödev 6:** Python'da demetlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir demet elemanı girmesini isteyecek ve bu elemanları bir demete ekleyecektir. Daha sonra demetin tamamını ekrana yazdıracak ve demetteki bir elemanın kaç kez geçtiğini hesaplayacaktır.
 
-Çözüm:
+**Çözüm:**
 
 ```s
 
@@ -234,9 +234,9 @@ Son olarak, print() fonksiyonunu kullanarak demetin tamamını ekrana yazdırıy
 Bu programı çalıştırarak, kullanıcının girdiği demet elemanlarını, demetin tamamını ve bir elemanın demette kaç kez geçtiğini görebilirsiniz.
 
 
-Ödev 7: Python'da stringlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir cümle girmesini isteyecek ve bu cümleyi farklı şekillerde manipüle ederek ekrana yazdıracaktır. Program, cümlenin uzunluğunu hesaplayacak, tüm harfleri büyük harfe dönüştürecek, cümledeki boşluk sayısını hesaplayacak ve cümleyi tersten yazdıracaktır.
+**Ödev 7:** Python'da stringlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir cümle girmesini isteyecek ve bu cümleyi farklı şekillerde manipüle ederek ekrana yazdıracaktır. Program, cümlenin uzunluğunu hesaplayacak, tüm harfleri büyük harfe dönüştürecek, cümledeki boşluk sayısını hesaplayacak ve cümleyi tersten yazdıracaktır.
 
-Çözüm:
+**Çözüm:**
 
 ```s
 
@@ -272,9 +272,9 @@ Daha sonra, count() metodu ile cumle değişkenindeki boşlukların sayısını 
 Son olarak, [::-1] dilimleme yöntemini kullanarak cumle değişkenini tersten yazdırıyoruz ve bu ters cümleyi ters_cumle değişkenine atıyoruz.
 
 
-Ödev 8: Python'da karşılaştırma operatörlerinin nasıl kullanıldığını gösteren bir program yazın. Program, kullanıcıdan iki sayı girmesini isteyecek ve bu sayıları karşılaştırarak ekrana sonucu yazdıracaktır. Program, iki sayının birbirine eşit olup olmadığını, bir sayının diğerinden büyük veya küçük olup olmadığını kontrol edecektir.
+**Ödev 8:** Python'da karşılaştırma operatörlerinin nasıl kullanıldığını gösteren bir program yazın. Program, kullanıcıdan iki sayı girmesini isteyecek ve bu sayıları karşılaştırarak ekrana sonucu yazdıracaktır. Program, iki sayının birbirine eşit olup olmadığını, bir sayının diğerinden büyük veya küçük olup olmadığını kontrol edecektir.
 
-Çözüm:
+**Çözüm:**
 
 ```s
 
@@ -306,7 +306,7 @@ Ardından, < ve > operatörlerini kullanarak sayi1'in sayi2'den küçük veya b�
 
 Bu programı çalıştırarak, kullanıcının girdiği sayıları karşılaştırabilir ve sonuçları ekranda görebilirsiniz.
 
-Ödev 9: Python'da if, elif, else ifadelerinin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir not girmesini isteyecek ve bu nota göre karne notunu ekrana yazdıracaktır. Program, aşağıdaki kriterlere göre notları değerlendirecektir:
+**Ödev 9:** Python'da if, elif, else ifadelerinin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir not girmesini isteyecek ve bu nota göre karne notunu ekrana yazdıracaktır. Program, aşağıdaki kriterlere göre notları değerlendirecektir:
 
 90 ve üzeri: AA
 80-89 arası: BA
@@ -317,7 +317,7 @@ Bu programı çalıştırarak, kullanıcının girdiği sayıları karşılaşt�
 30-39 arası: DD
 0-29 arası: FF
 
-
+**Çözüm :**
 ```s
 
 # Kullanıcıdan bir not alın
@@ -349,9 +349,9 @@ Daha sonra, girilen nota göre karne notunu belirlemek için if, elif ve else if
 
 Bu programı çalıştırarak, kullanıcının girdiği nota göre karne notunu ekranda görebilirsiniz.
 
-Ödev 10: Python'da integer, float ve string veri tiplerini kullanarak basit bir hesap makinesi programı yazın. Program, kullanıcıdan iki sayı ve bir işlem türü (toplama, çıkarma, çarpma, bölme) girmesini isteyecek. Ardından, bu işlemi gerçekleştirerek sonucu ekrana yazdıracaktır.
+**Ödev 10:** Python'da integer, float ve string veri tiplerini kullanarak basit bir hesap makinesi programı yazın. Program, kullanıcıdan iki sayı ve bir işlem türü (toplama, çıkarma, çarpma, bölme) girmesini isteyecek. Ardından, bu işlemi gerçekleştirerek sonucu ekrana yazdıracaktır.
 
-Çözüm:
+**Çözüm:**
 
 
 ```s
