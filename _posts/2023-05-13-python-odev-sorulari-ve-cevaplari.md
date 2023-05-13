@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python Yazılım Dilinde Değişkenler"
+title:  "Python'da 10 Ödev Sorusu ve Cevapları"
 date:   2023-03-07 13:50:39
 categories: python
 ---
