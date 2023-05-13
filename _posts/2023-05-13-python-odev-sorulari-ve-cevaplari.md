@@ -38,6 +38,7 @@ Son olarak, print() fonksiyonunu kullanarak "Toplama işleminin sonucu:" ifadesi
 Bu programı çalıştırarak kullanıcıdan alınan sayıların toplamını görebilirsiniz.
 
 **Ödev 2:**  Python'da matematiksel operatörleri kullanarak iki sayı üzerinde farklı işlemler gerçekleştiren bir program yazın. Programın çıktısı olarak bu işlemlerin sonuçlarını ekrana yazdırın.
+
 **Çözüm:**
 
 ```s
@@ -89,6 +90,7 @@ Bu programı çalıştırarak, iki sayı üzerinde yapılan farklı matematiksel
 
 **Ödev 3:**  Python'da veri tipleri arasında dönüşümleri gösteren bir program yazın. Kullanıcıdan bir tam sayı, bir ondalık sayı ve bir metin girmesini isteyin. Bu değerleri farklı veri tiplerine dönüştürerek ekrana yazdırın.
 
+
 **Çözüm:**
 
 
@@ -126,6 +128,7 @@ Son olarak, print() fonksiyonunu kullanarak dönüşümleri ekrana yazdırıyoru
 Bu programı çalıştırarak, kullanıcının girdiği değerlerin farklı veri tiplerine nasıl dönüştürüldüğünü görebilirsiniz.
 
 **Ödev 4:** Python'da sözlüklerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir ülke adı ve başkentini alacak ve bu bilgileri bir sözlükte saklayacak. Daha sonra kullanıcıya bir ülke adı girdiğinde, program bu ülkenin başkentini ekrana yazdıracak.
+
 
 **Çözüm :**
 
@@ -168,6 +171,7 @@ Bu programı çalıştırarak, kullanıcının girdiği ülke adına karşılık
 
 **Ödev 5:** Python'da listelerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir liste elemanı girmesini isteyecek ve bu elemanları bir listeye ekleyecektir. Daha sonra listenin tamamını ekrana yazdıracak ve listenin uzunluğunu hesaplayacaktır.
 
+
 **Çözüm:**
 
 ```s
@@ -201,6 +205,7 @@ Bu programı çalıştırarak, kullanıcının girdiği liste elemanlarını ve 
 
 
 **Ödev 6:** Python'da demetlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir demet elemanı girmesini isteyecek ve bu elemanları bir demete ekleyecektir. Daha sonra demetin tamamını ekrana yazdıracak ve demetteki bir elemanın kaç kez geçtiğini hesaplayacaktır.
+
 
 **Çözüm:**
 
@@ -236,6 +241,7 @@ Bu programı çalıştırarak, kullanıcının girdiği demet elemanlarını, de
 
 
 **Ödev 7:** Python'da stringlerin kullanımını gösteren bir program yazın. Program, kullanıcıdan bir cümle girmesini isteyecek ve bu cümleyi farklı şekillerde manipüle ederek ekrana yazdıracaktır. Program, cümlenin uzunluğunu hesaplayacak, tüm harfleri büyük harfe dönüştürecek, cümledeki boşluk sayısını hesaplayacak ve cümleyi tersten yazdıracaktır.
+
 
 **Çözüm:**
 
@@ -274,6 +280,7 @@ Son olarak, [::-1] dilimleme yöntemini kullanarak cumle değişkenini tersten y
 
 
 **Ödev 8:** Python'da karşılaştırma operatörlerinin nasıl kullanıldığını gösteren bir program yazın. Program, kullanıcıdan iki sayı girmesini isteyecek ve bu sayıları karşılaştırarak ekrana sonucu yazdıracaktır. Program, iki sayının birbirine eşit olup olmadığını, bir sayının diğerinden büyük veya küçük olup olmadığını kontrol edecektir.
+
 
 **Çözüm:**
 
@@ -318,7 +325,9 @@ Bu programı çalıştırarak, kullanıcının girdiği sayıları karşılaşt�
 30-39 arası: DD
 0-29 arası: FF
 
+
 **Çözüm :**
+
 ```s
 
 # Kullanıcıdan bir not alın
@@ -351,6 +360,7 @@ Daha sonra, girilen nota göre karne notunu belirlemek için if, elif ve else if
 Bu programı çalıştırarak, kullanıcının girdiği nota göre karne notunu ekranda görebilirsiniz.
 
 **Ödev 10:** Python'da integer, float ve string veri tiplerini kullanarak basit bir hesap makinesi programı yazın. Program, kullanıcıdan iki sayı ve bir işlem türü (toplama, çıkarma, çarpma, bölme) girmesini isteyecek. Ardından, bu işlemi gerçekleştirerek sonucu ekrana yazdıracaktır.
+
 
 **Çözüm:**
 
