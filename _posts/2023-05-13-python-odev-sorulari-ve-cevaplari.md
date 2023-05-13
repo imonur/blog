@@ -43,6 +43,7 @@ Bu programı çalıştırarak kullanıcıdan alınan sayıların toplamını gö
 
 **Ödev 2:**  Python'da matematiksel operatörleri kullanarak iki sayı üzerinde farklı işlemler gerçekleştiren bir program yazın. Programın çıktısı olarak bu işlemlerin sonuçlarını ekrana yazdırın.
 
+
 **Çözüm:**
 
 ```s
