@@ -13,6 +13,7 @@ Bu yazıda, **Python'da 10 Ödev Sorusu ve Cevaplarını** bulacaksınız.
 ---
 
 **Ödev 1:** Python'da değişkenlerin kullanımını açıklayan bir program yazın. Kullanıcıdan iki sayı girmesini isteyin ve bu sayıları toplayarak sonucu ekrana yazdırın.
+
 **Çözüm:**
 
 ```s
