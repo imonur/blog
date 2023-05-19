@@ -9,7 +9,7 @@ categories: python
 # Python ile Hesap Makinesi Yapımı
 ---
 Bu yazıda, **Python ile Hesap Makinesi Yapımını** bulacaksınız.
----
+
 ---
 
 Bu projemizde, kullanıcıya dört temel matematiksel işlem (toplama, çıkarma, çarpma ve bölme) seçeneği sunan bir hesap makinesi uygulaması oluşturuyoruz. Kullanıcı, klavyeden istediği işlemi seçerek iki sayı girebilir ve sonucunu ekranda görüntüleyebilir. Program, kullanıcıya devam etmek isteyip istemediğini sorarak uygulamayı tekrar çalıştırmayı sağlar.
