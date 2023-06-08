@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Python'da Hatalar ve İstisnalar ile İlgili 10 Ödev Sorusu ve Cevapları"
+title:  "Python Hatalar ve İstisnalar ile İlgili 10 Ödev Sorusu ve Cevapları"
 date:   2023-06-08 14:50:39
 categories: python
 ---
 
 ---
-# Python'da Hatalar ve İstisnalar ( try-except ) ile İlgili 10 Ödev Sorusu ve Cevapları
+# Python Hatalar ve İstisnalar ile İlgili 10 Ödev Sorusu ve Cevapları
 
 Bu yazıda, **Python'da Hatalar ve İstisnalar ( try-except ) ile İlgili 10 Ödev Sorusu ve Cevaplarını** bulacaksınız.
 
