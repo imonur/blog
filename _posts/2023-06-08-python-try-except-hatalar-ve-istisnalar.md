@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Python'da Hatalar ve İstisnalar Konusu ( try-except bloğu )"
+title:  "Python'da Hatalar ve İstisnalar Konusu"
 date:   2023-06-08 13:50:39
 categories: python
 ---
