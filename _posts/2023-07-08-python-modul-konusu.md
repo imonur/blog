@@ -12,7 +12,7 @@ Bu yazıda, **Python'da Modüller Konusunu** bulacaksınız.
 
 ---
 ## Python Yazılımında Modüller
-Python, ücretsiz, açıık kaynak kodlu, güçlü, hızlı ve genişletilebilir bir programlama dilidir. Bu yazılım dilinin gelişmesi için tüm dünyadan birçok geliştirici eklemeler yaparak dilin genişlemesine ve güçlenmmesine katkı sağlamaktadır. Modüller, python'da yazacağınız programın daha rahat kontrol edilmesine, genişlemesine ve kullanımına olanak sağlar. 
+Python, ücretsiz, açık kaynak kodlu, güçlü, hızlı ve genişletilebilir bir programlama dilidir. Bu yazılım dilinin gelişmesi için tüm dünyadan birçok geliştirici eklemeler yaparak dilin genişlemesine ve güçlenmmesine katkı sağlamaktadır. Modüller, python'da yazacağınız programın daha rahat kontrol edilmesine, genişlemesine ve kullanımına olanak sağlar. 
 
 ## Modül Nedir?
 Modül, bünyesinde fonksiyonları, değişkenleri, sınıfları ve diğer öğeleri içeren dosyalardır. Modüller ile projenizi organize ederek daha düzenli bir şekilde bölmenize ve düzenli bir yapıda saklamanıza imkan tanır. Böylelikle büyük projelerinizi daha okunaklı ve kullanışlı bir şekle sokabilirsiniz.
