@@ -6,7 +6,7 @@ categories: python
 ---
 
 ---
-# Python Python if-elif-else Konusu
+# Python if-elif-else Konusu
 
 Bu yazıda, **Python if-elif-else Konusunu** bulacaksınız.
 
