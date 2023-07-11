@@ -1,17 +1,17 @@
 ---
 layout: post
-title:  "Python if- elif - else Konusu"
+title:  "Python if-elif-else Konusu"
 date:   2023-07-11 14:50:39
 categories: python
 ---
 
 ---
-# Python Python if- elif - else Konusu
+# Python Python if-elif-else Konusu
 
-Bu yazıda, **Python if- elif - else Konusunu** bulacaksınız.
+Bu yazıda, **Python if-elif-else Konusunu** bulacaksınız.
 
 ---
-## Python Yazılımında Python if- elif - else Konusu
+## Python Yazılımında Python if-elif-else Konusu
 Python yazılım diline yeni başlıyorsanız öğrenmeniz gereken en önemli konulardan birisi de if-elif-else konusudur. Diğer yazılım dillerinde de bu konu oldukça önemlidir. 
 Bu ifadeler programımızda belirli işlemleri yapmamızda kullandığımız koşul ifadeleridir. Şimdi gelelim bu şimdi örnekler ile konuyu açıklamaya. 
 
